@@ -1,7 +1,3 @@
-All right, here's a README and project description for your animal detection project using a pre-trained ResNet model.
-
------
-
 # Animal Detection with Pre-trained ResNet
 
 -----
