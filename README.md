@@ -26,6 +26,8 @@ pip install torch torchvision scikit-learn Pillow
 
 ## Dataset
 
+You can see some images in the files I uploaded
+
 The dataset used for this project is the **`animals-detection-images-dataset`** available on Kaggle. Specifically, the images from the **`train`** folder are utilized. This dataset contains various animal images, categorized into different subdirectories, with each subdirectory representing a distinct animal class.
 
 You'll need to download this dataset and place the `train` folder in a location accessible by your project (e.g., `/kaggle/input/animals-detection-images-dataset/train` if running on Kaggle or a similar path locally).
